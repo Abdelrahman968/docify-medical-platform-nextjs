@@ -24,7 +24,7 @@ export default async function TeamList() {
               style={{ width, height }}
             >
               <AppImage
-                src={image}
+                src={image.src}
                 alt={name}
                 width={width}
                 height={height}

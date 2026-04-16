@@ -56,7 +56,7 @@ export default function MySwiper() {
               <div className="flex items-center gap-2">
                 <div className="w-13 h-13 rounded-full overflow-hidden">
                   <AppImage
-                    src={customer.image}
+                    src={customer.image.src}
                     alt={customer.name[locale]}
                     width={52}
                     height={52}

@@ -22,7 +22,7 @@ export default async function ExploreFeatureImage({
         <div className="absolute inset-0 bg-black z-10 opacity-70" />
 
         <AppImage
-          src={FirstImage}
+          src={FirstImage.src}
           className="w-full h-full object-cover rounded-xl"
           alt="first"
           width={580}
@@ -37,7 +37,7 @@ export default async function ExploreFeatureImage({
         <div className="absolute inset-0 bg-linear-to-t from-black/70 to-transparent" />
 
         <AppImage
-          src={from === 'tips' ? BlogImage : SecImage}
+          src={from === 'tips' ? BlogImage.src : SecImage.src}
           className="w-full h-full object-cover rounded-xl shadow-2xl"
           alt="second"
           width={580}

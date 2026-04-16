@@ -38,7 +38,12 @@ export default async function ServicesList() {
             ].join(' ')}
           >
             <div className="w-20 h-20">
-              <AppImage src={img} alt={t(titleKey)} width={80} height={80} />
+              <AppImage
+                src={img.src}
+                alt={t(titleKey)}
+                width={80}
+                height={80}
+              />
             </div>
             <h3 className="text-xl font-semibold text-[#022D70]">
               {t(titleKey)}
