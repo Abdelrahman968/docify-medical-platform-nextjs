@@ -14,6 +14,8 @@ export default async function ExploreFeatureImage({
   from?: string;
 }) {
   const t = await getTranslations(from === 'tips' ? 'Tips' : 'Explore');
+
+  const secondImage = from === 'tips' ? BlogImage : SecImage;
   return (
     <div className="relative w-[450px] min-h-[350px]">
       <div
@@ -37,7 +39,7 @@ export default async function ExploreFeatureImage({
         <div className="absolute inset-0 bg-linear-to-t from-black/70 to-transparent" />
 
         <AppImage
-          src={from === 'tips' ? BlogImage.src : SecImage.src}
+          src={secondImage.src}
           className="w-full h-full object-cover rounded-xl shadow-2xl"
           alt="second"
           width={580}
