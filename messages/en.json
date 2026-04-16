@@ -1,0 +1,119 @@
+{
+  "NavBar": {
+    "LogoAlt": "Docify Logo",
+    "Login": "Login",
+    "Home": "Home",
+    "About Us": "About Us",
+    "Services": "Services",
+    "Blog": "Blog",
+    "Our Team": "Our Team",
+    "Book Appointment": "Book Appointment"
+  },
+  "HeroHomePage": {
+    "subTitle": "Your Health Our Priority",
+    "title": "Save time and get the medical attention you deserve",
+    "trustedBy": "Trusted by",
+    "satisfiedClients": "5k+ Satisfied Clients",
+    "avatar": "Avatar",
+    "partners": "Partners",
+    "specialists": "Specialists",
+    "reports": "Reports",
+    "bookNow": "Book Now"
+  },
+  "MedicalSupport": {
+    "title": "Expert Medical Support",
+    "description": "Our team of experienced specialists is dedicated to providing personalized care that fits your schedule. From easy online booking to professional consultations, we ensure your health is always in the best hands.",
+    "learnMore": "Learn More",
+    "Wide_Range_of_Specialties": "Wide Range of Specialties",
+    "Trusted_Medical_Team": "Trusted Medical Team",
+    "Fast_Easy_Booking": "Fast & Easy Booking",
+    "Flexible_Scheduling": "Flexible Scheduling",
+    "imageOneAlt": "Image One",
+    "imageTwoAlt": "Image Two"
+  },
+  "Explore": {
+    "title": "Explore Our Medical Departments",
+    "description": "Comprehensive dental care for a healthy smile, including preventive checkups, cleanings, orthodontics, and restorative treatments.",
+    "bookNow": "Book Now",
+    "Dental_Department": "Dental Department"
+  },
+  "Services": {
+    "medical": {
+      "title": "Medical Consultation",
+      "description": "Personalized medical consultations focused on accurate diagnosis and clear treatment plans."
+    },
+    "diagnostic": {
+      "title": "Diagnostic Services",
+      "description": "Advanced diagnostic procedures to ensure precise and reliable medical results."
+    },
+    "followUp": {
+      "title": "Follow-Up Care",
+      "description": "Continuous follow-up to monitor progress and adjust treatment when needed."
+    },
+    "preventive": {
+      "title": "Preventive Care",
+      "description": "Routine checkups and preventive screenings to help maintain long-term health."
+    },
+    "treatment": {
+      "title": "Treatment Planning",
+      "description": "Clear and structured treatment plans tailored to each patient's condition."
+    },
+    "patient": {
+      "title": "Patient Support",
+      "description": "Professional guidance and support to answer questions and ensure peace of mind."
+    },
+    "appointment": {
+      "title": "Appointment Scheduling",
+      "description": "Easy and flexible appointment scheduling designed to fit your availability."
+    },
+    "health": {
+      "title": "Health Assessments",
+      "description": "Comprehensive health assessments to evaluate overall wellness and identify potential risks early."
+    },
+    "title": "Our Services",
+    "viewAllServices": "View All Services"
+  },
+  "Tips": {
+    "title": "Latest Insights & Health Tips",
+    "description": "Stay informed with trusted medical articles, health tips, and expert advice written to help you make better healthcare decisions.",
+    "bookNow": "View All Blogs",
+    "Dental_Department": "How to Choose the",
+    "Dental_Department2": "Right Medical Specialist"
+  },
+  "Team": {
+    "name_one": "Dr. Mohamed Hassan",
+    "specialization_one": "Neurologist",
+
+    "name_two": "Dr. Ahmed Saleh",
+    "specialization_two": "Internal Medicine",
+
+    "name_three": "Dr. Amira Abdelrahman",
+    "specialization_three": "Dermatologist",
+
+    "name_four": "Dr. Sara Ahmed",
+    "specialization_four": "Dentist",
+
+    "title": "Our Medical Specialists",
+    "viewAllDoctors": "View All Doctors"
+  },
+  "Customers": {
+    "title": "Our Happy Customers"
+  },
+  "Footer": {
+    "Useful_Links": "Useful Links",
+    "About_Us": "About Us",
+    "Blogs": "Blogs",
+    "Services": "Services",
+    "Our_Team": "Our Team",
+    "Book_Appointment": "Book Appointment",
+    "Contact_us": "Contact us",
+    "address": "Abbas El Akkad St, Nasr City, Cairo",
+    "address2": "Medical Tower, Building 45",
+    "Opening_Hours": "Opening Hours",
+    "days": "Sun - Thu",
+    "time": "08:00 AM - 12:00 AM",
+    "emergency": "Emergency 24 hours",
+    "DevelopedName": "Developed by Dev_Vertex",
+    "description": "A modern medical Website offering access to multiple healthcare specialties, designed to make booking appointments fast, simple, and reliable."
+  }
+}
