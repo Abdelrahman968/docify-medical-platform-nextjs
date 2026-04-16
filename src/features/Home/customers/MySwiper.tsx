@@ -21,7 +21,23 @@ export default function MySwiper() {
     <>
       <Swiper
         dir={locale === 'ar' ? 'rtl' : 'ltr'}
-        slidesPerView={3.5}
+        breakpoints={{
+          320: {
+            slidesPerView: 1.2,
+          },
+          480: {
+            slidesPerView: 1.5,
+          },
+          768: {
+            slidesPerView: 2.5,
+          },
+          1024: {
+            slidesPerView: 3.5,
+          },
+          1280: {
+            slidesPerView: 4,
+          },
+        }}
         spaceBetween={30}
         grabCursor={true}
         centeredSlides={true}
