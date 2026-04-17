@@ -4,6 +4,17 @@ import { getTranslations } from 'next-intl/server';
 
 export default async function TeamList() {
   const t = await getTranslations('Team');
+
+  console.log(
+    'Images debug:',
+    doctorList.map(d => ({
+      name: d.name,
+      src: d.image.src,
+      width: d.image.width,
+      height: d.image.height,
+    }))
+  );
+
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 w-full p-10">
       {doctorList.map(
@@ -24,7 +35,7 @@ export default async function TeamList() {
               style={{ width, height }}
             >
               <AppImage
-                src={image.src}
+                src={image}
                 alt={name}
                 width={width}
                 height={height}

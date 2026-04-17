@@ -10,6 +10,8 @@ type AppImageProps = ImageProps;
 export default function AppImage({ src, alt, ...props }: AppImageProps) {
   const [imgSrc, setImgSrc] = useState(src);
 
+  console.log('Image src:', src);
+
   useEffect(() => {
     setImgSrc(src);
   }, [src]);
