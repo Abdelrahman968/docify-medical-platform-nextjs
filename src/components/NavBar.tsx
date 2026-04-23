@@ -5,6 +5,7 @@ import LangSwitcher from '@/components/LangSwitcher';
 import Btn from '@/shared/Btn';
 import { getTranslations } from 'next-intl/server';
 import MobileMenu from '@/features/NavBar/MobileMenu';
+import NavLinks from '@/features/NavBar/NavLinks';
 
 const links = [
   { id: 1, href: '/', txt: 'Home' },
@@ -33,17 +34,7 @@ export default async function NavBar() {
             />
           </Link>
           <div className="hidden lg:block w-[28px] h-0 border-[1.5px] border-black opacity-100 rotate-90" />
-          <div className="hidden lg:flex items-center gap-5">
-            {links.map(({ id, href, txt }) => (
-              <Link
-                key={id}
-                href={href}
-                className="font-medium hover:font-bold hover:text-linear-to-b from-[#29B2A4] to-[#022D70] transition-all duration-300 ease-in-out"
-              >
-                {t(txt) || txt}
-              </Link>
-            ))}
-          </div>
+          <NavLinks links={links} />
         </div>
         <div className="flex items-center gap-4">
           <div className="lg:hidden">
