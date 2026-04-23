@@ -81,20 +81,57 @@
     "Dental_Department2": "Right Medical Specialist"
   },
   "Team": {
+    "title": "Our Medical Specialists",
+    "viewAllDoctors": "View All Doctors",
+    "qualification_label": "Qualification",
+    "certifications_label": "Certifications",
+    "expertise_label": "Areas of Expertise",
     "name_one": "Dr. Mohamed Hassan",
     "specialization_one": "Neurologist",
-
+    "subtitle_one": "Consultant Neurologist | 10+ Years of Experience",
+    "description_one": "Dr. Hassan is dedicated to providing patient-focused neurological care using the latest medical practices and diagnostic techniques. He is recognized for his precise evaluations, calm approach, and ability to simplify complex conditions for his patients.",
+    "qualification_one": "Bachelor of Medicine & Surgery – Mansoura University, 2012",
+    "certification_one_a": "Certified in Egyptian Board of Neurology",
+    "certification_one_b": "Advanced Stroke Life Support",
+    "expertise_one_a": "Headaches & Migraines",
+    "expertise_one_b": "Parkinson's Disease",
+    "expertise_one_c": "Epilepsy and Seizure Disorders",
+    "expertise_one_d": "Multiple Sclerosis",
+    "expertise_one_e": "Neuropathy",
+    "expertise_one_f": "Stroke Management & Prevention",
+    "experience_one": "10+ Years",
     "name_two": "Dr. Ahmed Saleh",
     "specialization_two": "Internal Medicine",
-
+    "subtitle_two": "Internal Medicine Specialist | 8+ Years of Experience",
+    "description_two": "Dr. Saleh specializes in the diagnosis and management of complex internal medicine conditions, committed to comprehensive and compassionate care for his patients.",
+    "qualification_two": "Bachelor of Medicine & Surgery – Cairo University, 2014",
+    "certification_two_a": "Board Certified in Internal Medicine",
+    "expertise_two_a": "Diabetes Management",
+    "expertise_two_b": "Hypertension",
+    "expertise_two_c": "Cardiovascular Disease",
+    "experience_two": "8+ Years",
     "name_three": "Dr. Amira Abdelrahman",
     "specialization_three": "Dermatologist",
-
+    "subtitle_three": "Consultant Dermatologist | 7+ Years of Experience",
+    "description_three": "Dr. Abdelrahman is passionate about skin health and offers a wide range of dermatological services from medical treatments to cosmetic procedures with a personalized approach.",
+    "qualification_three": "Bachelor of Medicine & Surgery – Alexandria University, 2015",
+    "certification_three_a": "Egyptian Board of Dermatology",
+    "certification_three_b": "Certified Aesthetic Dermatology",
+    "expertise_three_a": "Acne & Scarring",
+    "expertise_three_b": "Skin Pigmentation",
+    "expertise_three_c": "Hair Loss Treatment",
+    "expertise_three_d": "Cosmetic Dermatology",
+    "experience_three": "7+ Years",
     "name_four": "Dr. Sara Ahmed",
     "specialization_four": "Dentist",
-
-    "title": "Our Medical Specialists",
-    "viewAllDoctors": "View All Doctors"
+    "subtitle_four": "General Dentist | 5+ Years of Experience",
+    "description_four": "Dr. Sara Ahmed provides high-quality dental care in a comfortable environment. She is skilled in a broad range of dental procedures and prioritizes patient comfort and oral health education.",
+    "qualification_four": "Bachelor of Dental Surgery – Ain Shams University, 2017",
+    "certification_four_a": "Egyptian Dental Syndicate Member",
+    "expertise_four_a": "Teeth Whitening",
+    "expertise_four_b": "Dental Implants",
+    "expertise_four_c": "Orthodontics",
+    "experience_four": "5+ Years"
   },
   "Customers": {
     "title": "Our Happy Customers"
@@ -115,5 +152,47 @@
     "emergency": "Emergency 24 hours",
     "DevelopedName": "Developed by Dev_Vertex",
     "description": "A modern medical Website offering access to multiple healthcare specialties, designed to make booking appointments fast, simple, and reliable."
+  },
+  "PageHeader": {
+    "home": "Home"
+  },
+  "AboutPage": {
+    "title": "About Us"
+  },
+  "Location": {
+    "title": "Our Location"
+  },
+  "ServicesPage": {
+    "title": "Our Services"
+  },
+  "BookPage": {
+    "title": "Book an Appointment"
+  },
+  "Appointment": {
+    "title": "Book an Appointment",
+    "select_department": "Select Department",
+    "choose_doctor": "Choose Doctor",
+    "service_type": "Service Type",
+    "select_date": "Select Date",
+    "select_time": "Select Time",
+    "total_price": "Total Price",
+    "currency": "EGP",
+    "dept_neurology": "Neurology",
+    "dept_dermatology": "Dermatology",
+    "dept_internal": "Internal Medicine",
+    "dept_dentistry": "Dentistry",
+    "service_consultation": "Consultation",
+    "service_followup": "Follow-up",
+    "service_checkup": "Check-up",
+    "go_to_checkout": "Go to Checkout"
+  },
+  "TeamPage": {
+    "title": "Our Medical Team"
+  },
+  "BlogPage": {
+    "title": "Blogs"
+  },
+  "LoginPage": {
+    "title": "Login"
   }
 }

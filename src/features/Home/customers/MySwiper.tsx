@@ -52,7 +52,7 @@ export default function MySwiper() {
       >
         {customers.map(customer => (
           <SwiperSlide key={customer.id}>
-            <div className="flex flex-col gap-5 px-7 py-6 rounded-xl border border-gray-200 bg-white min-w-[360px] h-full">
+            <div className="flex flex-col gap-5 px-7 py-6 rounded-xl border border-gray-200 bg-white max-w-[360px] h-full">
               <div className="flex items-center gap-2">
                 <div className="w-13 h-13 rounded-full overflow-hidden">
                   <AppImage

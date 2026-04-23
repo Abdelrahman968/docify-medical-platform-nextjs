@@ -81,20 +81,61 @@
     "Dental_Department2": "الأخصائي الطبي المناسب"
   },
   "Team": {
+    "title": "أخصائيو الطب لدينا",
+    "viewAllDoctors": "عرض جميع الأطباء",
+    "qualification_label": "المؤهل",
+    "certifications_label": "الشهادات",
+    "expertise_label": "مجالات الخبرة",
+
     "name_one": "د. محمد حسن",
     "specialization_one": "طبيب أعصاب",
+    "subtitle_one": "استشاري أمراض الأعصاب | أكثر من 10 سنوات خبرة",
+    "description_one": "يكرس الدكتور حسن جهوده لتقديم رعاية عصبية تركز على المريض باستخدام أحدث الممارسات الطبية وتقنيات التشخيص. ويشتهر بتقييماته الدقيقة، وأسلوبه الهادئ، وقدرته على تبسيط الحالات المعقدة لمرضاه.",
+    "qualification_one": "بكالوريوس الطب والجراحة – جامعة المنصورة، 2012",
+    "certification_one_a": "معتمد في البورد المصري للأمراض العصبية",
+    "certification_one_b": "دعم الحياة المتقدم للسكتات الدماغية",
+    "expertise_one_a": "الصداع النصفي",
+    "expertise_one_b": "مرض باركنسون",
+    "expertise_one_c": "الصرع واضطرابات النوبات",
+    "expertise_one_d": "التصلب المتعدد",
+    "expertise_one_e": "الاعتلال العصبي",
+    "expertise_one_f": "إدارة السكتات الدماغية والوقاية منها",
+    "experience_one": "أكثر من 10 سنوات",
 
     "name_two": "د. أحمد صالح",
-    "specialization_two": "طب باطني",
+    "specialization_two": "الطب الباطني",
+    "subtitle_two": "أخصائي طب باطني | خبرة أكثر من 8 سنوات",
+    "description_two": "يتخصص د. أحمد صالح في تشخيص وعلاج الحالات المعقدة في الطب الباطني، ويحرص على تقديم رعاية شاملة وإنسانية لمرضاه.",
+    "qualification_two": "بكالوريوس الطب والجراحة – جامعة القاهرة، 2014",
+    "certification_two_a": "حاصل على البورد في الطب الباطني",
+    "expertise_two_a": "إدارة مرض السكري",
+    "expertise_two_b": "ارتفاع ضغط الدم",
+    "expertise_two_c": "أمراض القلب والأوعية الدموية",
+    "experience_two": "أكثر من 8 سنوات",
 
     "name_three": "د. أميرة عبد الرحمن",
     "specialization_three": "طبيبة جلدية",
+    "subtitle_three": "استشارية أمراض جلدية | خبرة أكثر من 7 سنوات",
+    "description_three": "تهتم د. أميرة عبد الرحمن بصحة البشرة وتقدم مجموعة واسعة من الخدمات الجلدية، بدءًا من العلاجات الطبية وحتى الإجراءات التجميلية بأسلوب مخصص لكل مريض.",
+    "qualification_three": "بكالوريوس الطب والجراحة – جامعة الإسكندرية، 2015",
+    "certification_three_a": "البورد المصري للأمراض الجلدية",
+    "certification_three_b": "شهادة معتمدة في الجلدية التجميلية",
+    "expertise_three_a": "حب الشباب وآثاره",
+    "expertise_three_b": "تصبغات الجلد",
+    "expertise_three_c": "علاج تساقط الشعر",
+    "expertise_three_d": "الجلدية التجميلية",
+    "experience_three": "أكثر من 7 سنوات",
 
     "name_four": "د. سارة أحمد",
     "specialization_four": "طبيبة أسنان",
-
-    "title": "أخصائيو الطب لدينا",
-    "viewAllDoctors": "عرض جميع الأطباء"
+    "subtitle_four": "طبيبة أسنان عامة | خبرة أكثر من 5 سنوات",
+    "description_four": "تقدم د. سارة أحمد رعاية أسنان عالية الجودة في بيئة مريحة، وتمتلك خبرة في مجموعة واسعة من الإجراءات السنية مع اهتمام خاص براحة المرضى والتثقيف بصحة الفم.",
+    "qualification_four": "بكالوريوس طب وجراحة الفم والأسنان – جامعة عين شمس، 2017",
+    "certification_four_a": "عضو نقابة أطباء الأسنان المصرية",
+    "expertise_four_a": "تبييض الأسنان",
+    "expertise_four_b": "زراعة الأسنان",
+    "expertise_four_c": "تقويم الأسنان",
+    "experience_four": "أكثر من 5 سنوات"
   },
   "Customers": {
     "title": "عملائنا السعداء"
@@ -115,5 +156,47 @@
     "emergency": "طوارئ 24 ساعة",
     "DevelopedName": "تم التطوير بواسطة Dev_Vertex",
     "description": "موقع طبي حديث يوفر الوصول إلى تخصصات رعاية صحية متعددة، مصمم لجعل حجز المواعيد سريعًا وسهلاً وموثوقًا."
+  },
+  "PageHeader": {
+    "home": "الرئيسية"
+  },
+  "AboutPage": {
+    "title": "من نحن"
+  },
+  "Location": {
+    "title": "موقعنا"
+  },
+  "ServicesPage": {
+    "title": "خدماتنا"
+  },
+  "BookPage": {
+    "title": "احجز موعد"
+  },
+  "Appointment": {
+    "title": "احجز موعد",
+    "select_department": "اختر القسم",
+    "choose_doctor": "اختر الطبيب",
+    "service_type": "نوع الخدمة",
+    "select_date": "اختر التاريخ",
+    "select_time": "اختر الوقت",
+    "total_price": "السعر الإجمالي",
+    "currency": "جنيه مصري",
+    "dept_neurology": "الأعصاب",
+    "dept_dermatology": "الجلدية",
+    "dept_internal": "الطب الباطني",
+    "dept_dentistry": "طب الأسنان",
+    "service_consultation": "استشارة",
+    "service_followup": "متابعة",
+    "service_checkup": "فحص",
+    "go_to_checkout": "اذهب إلى الدفع"
+  },
+  "TeamPage": {
+    "title": "فريقنا الطبي"
+  },
+  "BlogPage": {
+    "title": "المدونات"
+  },
+  "LoginPage": {
+    "title": "تسجيل الدخول"
   }
 }

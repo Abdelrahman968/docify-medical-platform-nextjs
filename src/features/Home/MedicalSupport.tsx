@@ -7,7 +7,7 @@ export default async function MedicalSupport() {
   const t = await getTranslations('MedicalSupport');
 
   return (
-    <section className="relative flex flex-col items-center justify-center mt-10 lg:mt-0">
+    <section className="relative flex flex-col items-center justify-center mt-10 lg:mt-0 py-10">
       <div className="container mx-auto px-4 flex flex-col lg:flex-row gap-10 items-center justify-between">
         <div className="flex flex-col gap-2">
           <h2 className="text-4xl md:text-5xl font-bold text-black text-center lg:text-start mb-4">
